@@ -3,8 +3,7 @@
 # <a href="https://www.linkedin.com/in/jarrelross/">Jarrel Ross</a> | IAM & Cybersecurity Portfolio 🔐 
 #### CompTIA CySA+ | Microsoft SC-900 | SOC Analyst | Azure Security | Threat Hunting | Microsoft Sentinel (SIEM) | KQL | MITRE ATT&CK
 
-I'm a Cybersecurity Analyst (CySA+) specializing in threat detection, incident response, and log analysis using Microsoft Sentinel and Defender for Endpoint.
-I design hands-on lab investigations aligned to MITRE ATT&CK and focus on building toward Azure Cloud Security Engineering.
+I am an IT professional with experience supporting enterprise Microsoft and DoD environments while building hands-on Identity & Access Management solutions using Okta and Microsoft Entra ID. My current focus is identity lifecycle management, access automation, Zero Trust architecture, and preparing for Okta Certified Professional and Microsoft SC-300.
 
 ## 🎓 Certifications
 
