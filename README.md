@@ -13,7 +13,20 @@ I am an IT professional with experience supporting enterprise Microsoft and DoD 
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-darkred?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
 
+## 🎯 Current Focus
 
+- Okta Certified Professional
+- Microsoft SC-300
+- Enterprise IAM Labs
+- Microsoft Entra ID
+- Zero Trust Architecture
+- SCCM / Endpoint Administration
+
+## 🔐 Identity & Access Management
+
+### [Okta Identity Lifecycle Management: Joiner-Mover-Leaver Automation](https://github.com/jrjayross/okta-iam-lifecycle-joiner-mover-leaver)
+
+Designed and implemented an Okta-based Joiner-Mover-Leaver lifecycle workflow using custom identity attributes, RBAC, ABAC, Okta Expression Language, group rules, application assignments, and deprovisioning.
 
 ## ⚠️ Vulnerability Management Engineering
 
