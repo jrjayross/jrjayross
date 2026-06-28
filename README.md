@@ -1,6 +1,6 @@
 
 
-# <a href="https://www.linkedin.com/in/jarrelross/">Jarrel Ross</a> | Cybersecurity Analyst Portfolio 🔐 
+# <a href="https://www.linkedin.com/in/jarrelross/">Jarrel Ross</a> | IAM & Cybersecurity Portfolio 🔐 
 #### CompTIA CySA+ | Microsoft SC-900 | SOC Analyst | Azure Security | Threat Hunting | Microsoft Sentinel (SIEM) | KQL | MITRE ATT&CK
 
 I'm a Cybersecurity Analyst (CySA+) specializing in threat detection, incident response, and log analysis using Microsoft Sentinel and Defender for Endpoint.
