@@ -28,6 +28,13 @@ I am an IT professional with experience supporting enterprise Microsoft and DoD 
 
 Designed and implemented an Okta-based Joiner-Mover-Leaver lifecycle workflow using custom identity attributes, RBAC, ABAC, Okta Expression Language, group rules, application assignments, and deprovisioning.
 
+### Okta Zero Trust Access Management
+
+Designed and implemented a Zero Trust Identity architecture using Okta Authentication Policies, Application Sign-In Policies, MFA enforcement, Network Zones, and context-aware access controls.
+
+Repository:
+https://github.com/jrjayross/okta-zero-trust-access-management
+
 ## ⚠️ Vulnerability Management Engineering
 
 ### **[Vulnerability Management Program Implementation](https://github.com/jrjayross/Vulnerability-Management-Program-Implementation)**
